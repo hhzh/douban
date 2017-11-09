@@ -8,4 +8,4 @@ class MovieSpider(scrapy.Spider):
     start_urls = ['http://www.movie.douban.com/']
 
     def parse(self, response):
-        
+
