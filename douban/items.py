@@ -53,3 +53,4 @@ class MovieItem(scrapy.Item):
     blooper_urls = scrapy.Field()  # 花絮URL
     photos = scrapy.Field()  # 电影剧照
     popular_reviews = scrapy.Field()  # 影评
+    imdb = scrapy.Field()  # IMDb链接
