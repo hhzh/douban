@@ -4,13 +4,3 @@ scrapy craw douban
 
 
 
-
-
-
-
-
-
-
-
-
-
